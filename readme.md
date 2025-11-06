@@ -26,6 +26,10 @@ Este é um projeto educacional voltado para iniciantes em programação, com foc
 - Manipulação de formulários
 - Estruturação de páginas HTML
 - Estilização com CSS e Bootstrap
+- Lógica de programação com JavaScript
+- Manipulação do DOM (Document Object Model)
+- Validação de dados
+- Interatividade e dinamismo nas páginas
 
 ## Status
 
