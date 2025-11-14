@@ -6,6 +6,9 @@ let data = {
 };
 
 document.getElementById("button-logout").addEventListener("click", logout);
+document.getElementById("transaction-button").addEventListener("click", function () {
+    window.location.href = "transactions.html"
+})
 
 document.getElementById("transaction-form").addEventListener("submit", function (e) {
     e.preventDefault();
