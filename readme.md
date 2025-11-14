@@ -33,8 +33,8 @@ Este é um projeto educacional voltado para iniciantes em programação, com foc
 
 ## Status
 
-**Projeto em andamento**
+**Projeto Finalizado**
 
 ---
 
-**Codai 2.0** - Iniciando pessoas na área da programação 💻
+**Codai 2.0** - Iniciando pessoas na área da programação.
